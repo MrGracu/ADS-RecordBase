@@ -1,6 +1,5 @@
 { MADE BY GRACJAN MIKA ( https://www.gmika.pl ) }
 { COPYRIGHT (C) BY GRACJAN MIKA }
-
 program ADS_RecordBase;
 
 uses Crt,SysUtils;
